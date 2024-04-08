@@ -5,7 +5,7 @@ export default function Home() {
       <div className="">
         <h1>Velkommen til Nettverks nettside.</h1>
         <p>Her kan du finne informasjon om nettverket, og hva vi driver med!</p>
-        <p>Test</p>
+        <p>Test1</p>
       </div>
     </main>
   );
