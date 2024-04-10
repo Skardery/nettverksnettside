@@ -23,8 +23,9 @@ Sikkerhetsguiden basert på å være enkel å håndtere både for de som lærer 
 Nettsiden skal brukes av personer som har lyst til å lære bort eller lære om generelle nettverkskonsepter, tapologier, sammenheng i et nettverk, eller andre relaterte temaer.
 
 ### Hvordan bruke?
+1. Begynn med å åpne nettsiden og
 
-!(https://media.bluestonepim.com/1d982375-6379-47aa-94dd-ca50b2d04f46/91e39de6-27e2-417e-a523-bb091775cb16/GeXkgJaItLgkt5bn3qhuYZkzQ/y56qCI1khcWdLauSzKELRVYnY.png)
+2. Trykk på "Legg til en komponent"
 
 ## Fremover
 Authentication system, så bare verifiserte og godkjente lærere eller folk med kompetanse har tilgang til å legge til nye komponenter.
