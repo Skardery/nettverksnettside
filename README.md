@@ -22,10 +22,18 @@ Sikkerhetsguiden basert på å være enkel å håndtere både for de som lærer 
 ## Bruk
 Nettsiden skal brukes av personer som har lyst til å lære bort eller lære om generelle nettverkskonsepter, tapologier, sammenheng i et nettverk, eller andre relaterte temaer.
 
-### Hvordan bruke?
+### Hvordan lage?
 1. Begynn med å åpne nettsiden og trykk på "Til databasen" knappen.
 
 2. Trykk så på "Legg til en komponent" knappen.
+
+3. Fyll så ut "Navn", "Bildeadresse" og "Beskrivelse" feltene. (Det er anbefalt at bildetypen er [.png].)
+   Bildeadressen til et bilde kan du finne med å høyreklikke på et bilde, og å trykke på kopier bildeadressen.
+
+4. Trykk så på "Lagre komponent i database knappen"
+
+### Hvordan lære?
+1. Begynn med å åpne nettsiden og trykk på "Til databasen" knappen.
 
 ## Fremover
 Authentication system, så bare verifiserte og godkjente lærere eller folk med kompetanse har tilgang til å legge til nye komponenter.
