@@ -19,3 +19,10 @@ Sikkerhetsguiden basert på å være enkel å håndtere både for de som lærer 
 - Enkel å bruke
 - Tilgjengelig
 
+## Bruk
+Nettsiden skal brukes av personer som har lyst til å lære bort eller lære om generelle nettverkskonsepter, tapologier, sammenheng i et nettverk, eller andre relaterte temaer.
+
+## Fremover
+Authentication system, så bare verifiserte og godkjente lærere eller folk med kompetanse har tilgang til å legge til nye komponenter.
+Lydfremvisning, man skal kunne skru på lydfremvisning så folk med dårlig syn eller andre vansker skal ha tilgang til nettsiden på lik måte som alle andre.
+Utviddelse innen andre temaer, det finnes mange inviklede temaer innen IT bransjen og det er lett å avansere databasen og systemet til å filtrere data innen forskjellige kategorier.
