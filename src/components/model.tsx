@@ -1,9 +1,9 @@
 import { Canvas } from '@react-three/fiber';
-import { OrbitControls, Loader, useGLTF, CameraControls } from '@react-three/drei';
+import { OrbitControls, useGLTF, Loader } from '@react-three/drei';
 
 function Model() {
   const gltf = useGLTF('/model/scene.gltf', true);
-  return <primitive object={gltf.scene} scale={0.05} />;
+  return <primitive object={gltf.scene} scale={0.07} position={[0,-1.5,-0.5]} />;
 }
 
 export default function Threejs() {
@@ -11,9 +11,9 @@ export default function Threejs() {
     <>
       <Canvas>
         <ambientLight intensity={0.5} />
-        <spotLight position={[10, 10, 10]} angle={15} penumbra={1} />
+        <spotLight position={[10, 10, 10]} angle={15} />
           <Model />
-          <OrbitControls/>
+          <OrbitControls />
       </Canvas>
       <Loader />
     </>
