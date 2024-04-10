@@ -24,7 +24,7 @@ Nettsiden skal brukes av personer som har lyst til å lære bort eller lære om 
 
 ### Hvordan bruke?
 
-!
+!(https://media.bluestonepim.com/1d982375-6379-47aa-94dd-ca50b2d04f46/91e39de6-27e2-417e-a523-bb091775cb16/GeXkgJaItLgkt5bn3qhuYZkzQ/y56qCI1khcWdLauSzKELRVYnY.png)
 
 ## Fremover
 Authentication system, så bare verifiserte og godkjente lærere eller folk med kompetanse har tilgang til å legge til nye komponenter.
