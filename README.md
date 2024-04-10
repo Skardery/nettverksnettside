@@ -8,3 +8,14 @@ Dette prosjektet er laget for å hjelpe med å forstå forskjellige komponenter 
 - **Rammeverk:** Nextjs (react)
 
 ## Funksjonalitet
+Sikkerhetsguiden basert på å være enkel å håndtere både for de som lærer og de som lærer bort.
+
+### For brukere
+- Enkel læring
+- Tilgjengelig
+- Sammenheng mellom komponenter
+
+### For lærere / Folk med kompetanse
+- Enkel å bruke
+- Tilgjengelig
+
