@@ -23,9 +23,9 @@ Sikkerhetsguiden basert på å være enkel å håndtere både for de som lærer 
 Nettsiden skal brukes av personer som har lyst til å lære bort eller lære om generelle nettverkskonsepter, tapologier, sammenheng i et nettverk, eller andre relaterte temaer.
 
 ### Hvordan bruke?
-1. Begynn med å åpne nettsiden og
+1. Begynn med å åpne nettsiden og trykk på "Til databasen" knappen.
 
-2. Trykk på "Legg til en komponent"
+2. Trykk så på "Legg til en komponent" knappen.
 
 ## Fremover
 Authentication system, så bare verifiserte og godkjente lærere eller folk med kompetanse har tilgang til å legge til nye komponenter.
