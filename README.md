@@ -35,6 +35,12 @@ Nettsiden skal brukes av personer som har lyst til å lære bort eller lære om 
 ### Hvordan lære?
 1. Begynn med å åpne nettsiden og trykk på "Til databasen" knappen.
 
+2. Trykk så på ønsker emne, for eksempel "Router".
+
+3. Et overlag vil åpne seg med informasjonen du trenger, samt bildet av emnet.
+
+4. Når du blir ferdig med et emne kan du trykke på lukk knappen.
+
 ## Fremover
 Authentication system, så bare verifiserte og godkjente lærere eller folk med kompetanse har tilgang til å legge til nye komponenter.
 Lydfremvisning, man skal kunne skru på lydfremvisning så folk med dårlig syn eller andre vansker skal ha tilgang til nettsiden på lik måte som alle andre.
