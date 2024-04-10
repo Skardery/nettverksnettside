@@ -6,3 +6,5 @@ Dette prosjektet er laget for å hjelpe med å forstå forskjellige komponenter 
 - **Funksjon:** Typescript (tsx)
 - **Styling:** Tailwindcss
 - **Rammeverk:** Nextjs (react)
+
+## Funksjonalitet
