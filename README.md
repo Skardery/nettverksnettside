@@ -48,4 +48,3 @@ Utviddelse innen andre temaer, det finnes mange inviklede temaer innen IT bransj
 
 ## Kontakt
 Hvis du ønsker innblandelse innen prosjektet eller kontakt kan man kontakte meg via [Epost](jacob.kielhans@gmail.com)
-![image](https://github.com/Skardery/nettverksnettside/assets/123555141/1ac22a5a-95bc-4c0a-bfa2-e5ca749d9c4a)
