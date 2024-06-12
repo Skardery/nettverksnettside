@@ -4,10 +4,6 @@ import Threejs from "@/components/model";
 
 export default function Home() {
 
-  // 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
-
-  // next react react-dom
-
   return (
     <main className="w-screen h-screen">
       <Head>
@@ -21,8 +17,9 @@ export default function Home() {
               <Link href="/database" className="text-lg border lg:px-8 px-[5.6rem] py-6 rounded border-blue-800 text-blue-800 font-bold hover:border-gray-100 hover:text-gray-100 hover:bg-blue-800">Til databasen</Link>
             </div>
         </div>
-        <div className="w-1/2 h-[30rem] mt-38 mr-24 justify-center lg:flex hidden">
+        <div className="w-1/2 h-[30rem] mt-38 mr-24 justify-center lg:flex hidden flex-col">
           <Threejs />
+          <p>Hmm? Hvordan ser baksiden av pcen ut montro... Kanskje jeg kan flytte på den?</p>
         </div>
       </div>
     </main>

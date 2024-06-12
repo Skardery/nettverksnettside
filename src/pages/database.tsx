@@ -35,11 +35,11 @@ export default function Database() {
         <title>Nettverksguiden | Database</title>
       </Head>
       <div className="w-full flex">
-        <div className="lg:w-3/4 bg-white border border-blue-800 lg:mr-24 mr-0 h-[38.2rem] w-full rounded overflow-x-auto">
+        <div className="lg:w-3/4 bg-white border border-blue-800 lg:mr-24 mr-0 h-[28.2rem] w-full rounded overflow-x-auto">
           <ul className="grid lg:grid-cols-4 grid-cols-2 p-2">
             {items.map((item) => (
               <li key={item.id} className='m-4' onClick={() => handleItemClick(item)}>
-                <div style={{backgroundImage: `url(${item.imgurl})`, backgroundSize: 'cover', backgroundRepeat: 'no-repeat', backgroundPosition: 'center',}} className="w-full lg:h-[11rem] h-[9rem] flex justify-center items-center rounded-lg hover:border hover:border-blue-800">
+                <div style={{backgroundImage: `url(${item.imgurl})`, backgroundSize: 'cover', backgroundRepeat: 'no-repeat', backgroundPosition: 'center',}} className="w-full lg:h-[8rem] h-[6rem] flex justify-center items-center rounded-lg hover:border hover:border-blue-800">
                   <div className='bg-blue-800 px-4 rounded'>
                     <p className='text-white font-bold text-lg'>{item.name}</p>
                   </div>
@@ -52,7 +52,11 @@ export default function Database() {
           <p className="text-3xl font-bold text-blue-800">NETTVERKSGUIDEN</p>
             <div className="flex mt-8 items-center">
                 <Link href="/input" className="mr-4 flex items-center justify-center w-[2.4rem] h-[2.4rem] text-lg border rounded border-blue-800 text-blue-800 font-bold hover:border-gray-100 hover:text-gray-100 hover:bg-blue-800">+</Link>
-                <p className="text-lg">Legg til en komponent?</p>
+                <p className="text-md flex items-center">Legg til en komponent?</p>
+            </div>
+            <div className="flex mt-8 items-center">
+                <Link href="/faq" className="mr-4 flex items-center justify-center w-[2.4rem] h-[2.4rem] text-lg border rounded border-blue-800 text-blue-800 font-bold hover:border-gray-100 hover:text-gray-100 hover:bg-blue-800">?</Link>
+                <p className="text-md flex items-center">FAQ</p>
             </div>
         </div>
       </div>
